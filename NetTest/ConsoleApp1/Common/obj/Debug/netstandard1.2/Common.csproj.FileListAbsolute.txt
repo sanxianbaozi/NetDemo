@@ -1,0 +1,19 @@
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\Common\bin\Debug\netstandard1.2\Common.deps.json
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\Common\bin\Debug\netstandard1.2\Common.dll
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\Common\bin\Debug\netstandard1.2\Common.pdb
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\Common\obj\Debug\netstandard1.2\Common.csproj.ResolveComReference.cache
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\Common\obj\Debug\netstandard1.2\Common.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\Common\obj\Debug\netstandard1.2\Common.AssemblyInfo.cs
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\Common\obj\Debug\netstandard1.2\Common.dll
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\Common\obj\Debug\netstandard1.2\Common.pdb
+D:\Users\Desktop\NetTest\ConsoleApp1\Common\bin\Debug\netstandard1.2\Common.deps.json
+D:\Users\Desktop\NetTest\ConsoleApp1\Common\bin\Debug\netstandard1.2\Common.dll
+D:\Users\Desktop\NetTest\ConsoleApp1\Common\bin\Debug\netstandard1.2\Common.pdb
+D:\Users\Desktop\NetTest\ConsoleApp1\Common\obj\Debug\netstandard1.2\Common.csproj.AssemblyReference.cache
+D:\Users\Desktop\NetTest\ConsoleApp1\Common\obj\Debug\netstandard1.2\Common.csproj.ResolveComReference.cache
+D:\Users\Desktop\NetTest\ConsoleApp1\Common\obj\Debug\netstandard1.2\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Desktop\NetTest\ConsoleApp1\Common\obj\Debug\netstandard1.2\Common.AssemblyInfoInputs.cache
+D:\Users\Desktop\NetTest\ConsoleApp1\Common\obj\Debug\netstandard1.2\Common.AssemblyInfo.cs
+D:\Users\Desktop\NetTest\ConsoleApp1\Common\obj\Debug\netstandard1.2\Common.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\NetTest\ConsoleApp1\Common\obj\Debug\netstandard1.2\Common.dll
+D:\Users\Desktop\NetTest\ConsoleApp1\Common\obj\Debug\netstandard1.2\Common.pdb

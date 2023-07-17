@@ -1,0 +1,8 @@
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\Common\bin\Debug\netstandard1.4\Common.deps.json
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\Common\bin\Debug\netstandard1.4\Common.dll
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\Common\bin\Debug\netstandard1.4\Common.pdb
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\Common\obj\Debug\netstandard1.4\Common.csproj.ResolveComReference.cache
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\Common\obj\Debug\netstandard1.4\Common.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\Common\obj\Debug\netstandard1.4\Common.AssemblyInfo.cs
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\Common\obj\Debug\netstandard1.4\Common.dll
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\Common\obj\Debug\netstandard1.4\Common.pdb

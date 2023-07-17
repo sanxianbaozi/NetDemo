@@ -1,0 +1,13 @@
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\visual studio 2017\Projects\Test\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ASUS\Documents\visual studio 2017\Projects\Test\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ASUS\Documents\visual studio 2017\Projects\Test\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ASUS\Documents\visual studio 2017\Projects\Test\ConsoleApp1\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\visual studio 2017\Projects\Test\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ASUS\Documents\visual studio 2017\Projects\Test\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

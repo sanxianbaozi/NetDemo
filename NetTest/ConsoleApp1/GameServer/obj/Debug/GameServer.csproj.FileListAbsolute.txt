@@ -1,0 +1,21 @@
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\GameServer\bin\Debug\GameServer.exe.config
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\GameServer\bin\Debug\GameServer.exe
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\GameServer\bin\Debug\GameServer.pdb
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\GameServer\obj\Debug\GameServer.csprojAssemblyReference.cache
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\GameServer\obj\Debug\GameServer.exe
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\GameServer\obj\Debug\GameServer.pdb
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\GameServer\bin\Debug\Common.dll
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\GameServer\bin\Debug\Common.pdb
+C:\Users\ASUS\documents\visual studio 2017\Projects\ConsoleApp1\GameServer\obj\Debug\GameServer.csproj.CopyComplete
+D:\Users\Desktop\NetTest\ConsoleApp1\GameServer\bin\Debug\GameServer.exe.config
+D:\Users\Desktop\NetTest\ConsoleApp1\GameServer\bin\Debug\GameServer.exe
+D:\Users\Desktop\NetTest\ConsoleApp1\GameServer\bin\Debug\GameServer.pdb
+D:\Users\Desktop\NetTest\ConsoleApp1\GameServer\bin\Debug\Common.dll
+D:\Users\Desktop\NetTest\ConsoleApp1\GameServer\bin\Debug\Common.pdb
+D:\Users\Desktop\NetTest\ConsoleApp1\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
+D:\Users\Desktop\NetTest\ConsoleApp1\GameServer\obj\Debug\GameServer.csproj.SuggestedBindingRedirects.cache
+D:\Users\Desktop\NetTest\ConsoleApp1\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\NetTest\ConsoleApp1\GameServer\obj\Debug\GameServer.csproj.CopyComplete
+D:\Users\Desktop\NetTest\ConsoleApp1\GameServer\obj\Debug\GameServer.exe
+D:\Users\Desktop\NetTest\ConsoleApp1\GameServer\obj\Debug\GameServer.pdb
